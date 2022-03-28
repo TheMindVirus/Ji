@@ -3,6 +3,7 @@
 
 Xbox Ji is an Open Console Concept with Games Built on Unity WebGL Player. \
 The name comes from the initials of the Xbox company slogan, "Jump In". \
+Informally, Ji is also synonymous with "G" from the Gamerscore counter. \
 This version of the console features a Red and Blue Pool as 3D Hyperlinks.
 
 ### Demo: https://themindvirus.github.io/unity-dev/XboxJumpIn/
