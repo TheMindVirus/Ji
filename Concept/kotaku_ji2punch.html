@@ -1,0 +1,42 @@
+<title>ji2punch</title>
+<style>
+*
+{
+    font-family: consolas;
+    font-size: 14pt;
+    font-weight: bold;
+    background: black;
+    color: cyan;
+    text-shadow: 0 0 3px cyan;
+    text-align: justify;
+    text-justify: inter-character;
+    letter-spacing: .2rem;
+    word-wrap: break-word;
+}
+</style>
+<script>
+window.onload = function()
+{
+    var s = "";
+    var start = 0x11db;
+    var end = 0x11ff;
+    var length = end - start;
+    var a = new Uint16Array(length);
+    for (var i = 0; i < length; ++i) { a[i] = start + i; }
+
+    var t = 0;
+    for (var i = 0; i < length; ++i)
+    {
+        document.body.innerText += "0x" + a[i].toString(16).toUpperCase();
+        if (t % 8 == 7) { console.log("blip"); document.body.innerHTML += ",<br>"; }
+        else { document.body.innerHTML += ",&nbsp;"; }
+        t += 1;
+    }
+    document.body.innerHTML += "<br>";
+    console.log(a);
+
+    var d = new TextDecoder("utf-16").decode(a);
+    document.body.innerText += d;
+    console.log(d);
+}
+</script>
