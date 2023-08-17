@@ -1,0 +1,62 @@
+[DeepSpace Annex]: Red Dwarf | Pod
+DeepSpace:   Jupiter StarBug Pod
+Satellite:   Medbay
+Skyscraper:  HollyDeck (Holodeck)
+Surface:     Home
+Underground: Cave
+Mantle:      Alien Hideout
+Kernel:      Alien Nerve Center
+
+[Satellite Annex]: Crystal Palace | Deck
+DeepSpace:   Vessel
+Satellite:   Broadcast Deck
+Skyscraper:  Tower Antenna
+Surface:     Satellite Dish
+Underground: Submarine
+Mantle:      Datacenter
+Kernel:      Beacon
+
+[Skyscraper Annex]: Halo Requiem | Traxus Skytower
+DeepSpace:   Outer Regions
+Satellite:   SuperCarrier
+Skyscraper:  HighRise
+Surface:     Outside (Outer Zone)
+Underground: Cave/Cavern
+Mantle:      Skytowers/Skystacks (Stalagtite/Stalactite)
+Kernel:      Core (Inner Zone)
+
+[Surface Annex]: Viva Piñata | Garden
+DeepSpace:   Night Sky
+Satellite:   Stars
+Skyscraper:  Piñata Central
+Surface:     Garden Bounds
+Underground: Village
+Mantle:      Swamp
+Kernel:      Lair (Dastardos/Pester)
+
+[Underground Annex]: Rocket League | Arena
+DeepSpace:   Outer Space
+Satellite:   Scoreboard
+Skyscraper:  Arena
+Surface:     Turf
+Underground: Aquarium
+Mantle:      Underwater
+Kernel:      Ball
+
+[Mantle Annex]: Minecraft | Bedrock
+DeepSpace:   Galacticraft
+Satellite:   Moon Base
+Skyscraper:  Citadel
+Surface:     Overworld
+Underground: Bedrock
+Mantle:      Nether
+Kernel:      End City
+
+[Kernel Annex]: Astroneer | Origin
+DeepSpace:   Cosmos
+Satellite:   Orbit
+Skyscraper:  Stack
+Surface:     Terrain
+Underground: Cave/Alcove (Entrance)
+Mantle:      Inner Layers
+Kernel:      Origin Node

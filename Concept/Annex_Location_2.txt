@@ -1,0 +1,62 @@
+[DeepSpace Annex]: Babylon 5 | Ship
+DeepSpace:   Colonies
+Satellite:   Babylon 4
+Skyscraper:  Cities
+Surface:     Planet
+Underground: Dome
+Mantle:      Headquarters
+Kernel:      Great Machine
+
+[Satellite Annex]: Satellite 5 | Nexus
+DeepSpace:   Time Vortex
+Satellite:   Broadcast Nexus
+Skyscraper:  Residence
+Surface:     Earth
+Underground: Lava
+Mantle:      Magma
+Kernel:      Core
+
+[Skyscraper Annex]: Convention | Center
+DeepSpace:   Sci-Fi Location
+Satellite:   Signal Distributor
+Skyscraper:  Convention Center
+Surface:     Ground Floor
+Underground: Transport
+Mantle:      Vulkan
+Kernel:      DirectX
+
+[Surface Annex]: SoFi | Stadium
+DeepSpace:   Virtual Venue
+Satellite:   Internet
+Skyscraper:  Surroundings
+Surface:     Stadium
+Underground: Theatre
+Mantle:      Datacenter
+Kernel:      Soccar
+
+[Underground Annex]: Taito | Arcade
+DeepSpace:   Space Invaders
+Satellite:   Asteroids
+Skyscraper:  Sonic
+Surface:     Pacman
+Underground: Breakout
+Mantle:      Castlevania
+Kernel:      Key Adventure
+
+[Mantle Annex]: Borderlands | Sanctuary
+DeepSpace:   Inside Claptrap Sysadmin
+Satellite:   Helios Station
+Skyscraper:  Hyperion
+Surface:     Sanctuary
+Underground: Ice Fields
+Mantle:      Crystalisk Caverns
+Kernel:      Ramparts Sinkhole
+
+[Kernel Annex]: Xbox | Dashboard
+DeepSpace:   Showcase (Annex)
+Satellite:   OneGuide (Video-In)
+Skyscraper:  Achievements (Stats)
+Surface:     Home (Dashboard)
+Underground: Games/Apps (Mods)
+Mantle:      Settings (Profiles)
+Kernel:      Store (Content)
