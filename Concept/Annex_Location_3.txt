@@ -1,0 +1,8 @@
+[Edge-Ji Annex]: Xbox | Dashboard
+DeepSpace:   Showcase (Annex)
+Satellite:   OneGuide
+Skyscraper:  Achievements
+Surface:     Home (Dashboard)
+Underground: Games/Apps
+Mantle:      Settings
+Kernel:      Store
