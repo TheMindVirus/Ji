@@ -1,0 +1,25 @@
+[TokyoSpecialWardsCustomEdgeServerBuild]===================|
+[01]:    Chiyoda Ward | Tsukumo AMD    | CPU/GPU(/RAM/MB?) | 
+[02]:       Chuo Ward | Family Mart    | Keyboard/Mouse    |
+[03]:     Minato Ward | Sony           | HandyCam/Speakers |
+[04]:   Shinjuku Ward | Apple          | iPad/Translators  |
+[05]:     Bunkyo Ward | Queen's Isetan | Books/Printers    |
+[06]:      Taito Ward | Taito Station  | Games/Accessories |
+[07]:     Sumida Ward | Yamada Denki   | SSD/Headphones    |
+[08]:       Koto Ward | Gundam Base    | Chassis/Clothes   |
+[09]:  Shinagawa Ward | Yamada Denki   | Flash/USB Storage |
+[10]:     Meguro Ward | Panasonic      | Monitor/Cables    |
+[11]:        Ota Ward | Ricoh          | DVD+RW Drive/DVDs |
+[12]:   Setagaya Ward | Nojima         | TV/DVR System     |
+[13]:    Shibuya Ward | IKEA           | Desk/Furnishings  |
+[14]:     Nakano Ward | Au             | Phone/SIM Plan    |
+[15]:   Suginami Ward | Kojima x BIC   | Modmat/Shroud     |
+[16]:    Toshima Ward | BIC/BIC/BIC    | SBC/uController   |
+[17]:       Kita Ward | Hardware Mutom | Tools/Boxes       |
+[18]:    Arakawa Ward | Don Quijote    | Sweets/Trinkets   |
+[19]:   Itabashi Ward | Kojima x BIC   | Walkman/Posters   |
+[20]:     Nerima Ward | Hard-Off       | Mixer/Used Parts  |
+[21]:     Adachi Ward | PC Depot Smart | Watercooling/Fans |
+[22]: Katsushika Ward | Kojima x BIC   | PSU/Power Cables  |
+[23]:    Edogawa Ward | Kojima x BIC   | Laptop/Switch     |
+[*-subject to several changes and mods!]===================|
