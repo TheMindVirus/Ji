@@ -1,0 +1,615 @@
+[annex_infrastructure] - 28/06/2024
+
+{ "annex" = "extension", "infrastructure" = "outbuilding", "x-y" = "neurological (in)direction" }
+
+[library]: "liskoplex":"lisk" | (early-learning-center) (pre-school) (toddlers) (interested) (readers) | => museum
+- lisk books & booking
+- lisk digital media & toys
+- lisk curated isbn database
+- lisk strict internet access
+- lisk electronic tagging
+- lisk author meetings
+
+[museum]: "musings":"muse" | (national-center) (national-geographic) (yellow-portal) (caretakers) | => nursery
+- muse annexe
+- muse fossils
+- muse evidence
+- muse documents
+- muse activities
+- muse hieroglyphs
+
+[nursery]: "neutral":"cog" | (discovery-center) (common-or-garden) (florists) (culturists) (stewards) | => school
+- cog fauna & flora
+- cog fencepost
+- cog mailbox
+- cog pond
+- cog ball-pit
+- cog reception
+
+[school]: "academy":"school" | (prep-center) (verbal-reasoning) (spelling-bee) (keystage) (pupils) | => university
+- school changing rooms & lockers
+- school assembly hall & theatre
+- school classrooms & bursaries
+- school playground & canteen
+- school science lab & astro turf
+- school field trips & open days
+
+[university]: "college":"uni" | (poly-technic) (harvard-caltech) (oxbridge) (russell-group) (students) | => theatre
+- uni lectures & seminars
+- uni meeting rooms
+- uni accommodation
+- uni administration
+- uni campus resources
+- uni event organisers
+
+[theatre]: "show":"box" | (broadway-westend) (dolby-dts) (audience) (cast-crew) (technicians) | => cinema
+- box office/gallery/foyer
+- box confetti/pyro/cordons
+- box mezzanines/turrets/seating
+- box sound/light/visuals/automation
+- box mixers/preview-staging/live-monitors
+- box amplifiers/outboards/orchestra-pits/dressing-rooms
+
+[cinema]: "silver":"plex" | (odeon-vue) (thx-onyx) (directors) (chaperones) (viewers) | => planetarium
+- plex sound
+- plex screens
+- plex seating
+- plex anaglyphs
+- plex merch-stores
+- plex popcorn-dispensers
+
+[planetarium]: "orbital":"orb" | (msg-sphere) (sony-zeiss) (world's-fair) (eden-project) (ticketers) | => zoo
+- orb panels
+- orb screens
+- orb rigging
+- orb lighting
+- orb speakers
+- orb projector
+
+[zoo]: "petting":"zoo" | (animal-welfare) (lions-tigers-snakes) (dogs-cats-birds) (zookeepers) | => workshop
+- zoo animals
+- zoo habitats
+- zoo enclosures
+- zoo safari tours
+- zoo feeding routine
+- zoo safety patrolling
+
+[workshop]: "factory":"plant" | (adafruit-makerspace) (custom-shoppers) (clockmakers) (preppers) | => bowling-alley
+- plant conveyors/belts/lathes
+- plant sowing/threading/looms
+- plant assembly/kitting/sorting
+- plant testing/servicing/repairs
+- plant packaging/wrapping/shipping
+- plant soldering/orienting/pick&place
+
+[bowling-alley]: "freefall":"alley" | (hollywood-bowl) (qubica-edge) (brunswick-tenpin) (bowlers) | => skateway
+- alley pinsetter
+- alley ball-return
+- alley detectors
+- alley scoreboard
+- alley maintenance
+- alley pa-system
+
+[skateway]: "ramp/rink/skatepark":"emo" | (old-school) (ally-pally) (thrasher-vans-motown) (skaters) | => gym
+- emo tarmac/blue-ice
+- emo fabricator/zamboni
+- emo skateboard/rollerblades
+- emo obstacles/handrails
+- emo camcorder/pa-system
+- emo bakelite/wireless-radio
+
+[gym]: "chocolatier":"gym" | (weight-lifters) (candy-bars) (energy-drinks) (couriers) (carriers) | => observatory
+- gym treadmill runs
+- gym stride machine
+- gym rowing machine
+- gym weights & pins
+- gym long-fall mats
+- gym abseiling wall
+
+[observatory]: "overwatch":"tower" | (air-traffic-control) (runway) (tracon-recon) (watchers) (tourists) | => desk
+- tower skytree panavista
+- tower lighthouse beacon
+- tower astronomy telescopes
+- tower railway cargo equipment
+- tower radar spectroscopy equipment
+- tower underground mining equipment
+
+[desk]: "study":"desk" | (caligraphy-center) (abstract) (imaginary) (typesetters) (proofreaders) (writers) | => press
+- desk parker-pen & ink
+- desk woodblock & hinge
+- desk monitor & router
+- desk keyboard & mouse
+- desk macropad & dial
+- desk manuscript & score
+
+[press]: "wireless":"press" | (marvel-cinematic-universe) (dc-comics) (bakelite-radio) (films) (authors) | => depot
+- press custom prints
+- press rhythmic clock
+- press talkshow hosts
+- press design language
+- press wireless fidelity
+- press pattern recognition
+
+[depot]: "crate":"pod" | (hp-pod) (maersk-container) (datacenter) (line6) (logistics) (delivery) (senders) | => shop
+- pod racks
+- pod decking
+- pod overheads
+- pod monitors
+- pod cameras
+- pod radios
+
+[shop]: "commodity":"mall" | (asda-price) (wallmart-costco) (backroom) (shelvers) (shoppers) (customers) | => cruise
+- mall displays/billboards
+- mall trolleys/shopping-carts
+- mall aisles/groceries
+- mall delicatessen/pick&mix
+- mall pharmacy/cellular
+- mall tills/counters
+
+[cruise]: "hull":"on-board" | (heavy-industries) (dover-hovercraft) (floatplane) (pioneers) | => starliner
+- on-board entertainment
+- on-board provisioning
+- on-board catering
+- on-board amusements
+- on-board accommodation
+- on-board luggage-hold
+
+[starliner]: "ship":"axiom" | (walle-axiom) (earth-space) (captain) (attendants) (robots) (passengers) | => set
+- axiom lido deck
+- axiom auto bridge
+- axiom holodetector
+- axiom mobile seats
+- axiom garbage disposal
+- axiom docking logistics
+
+[set]: "stream":"cast" | (tv-show) (pc-world) (analysts) (speakers) (listeners) (prompters) (streamers) | => station
+- cast show hosts
+- cast studio engineers
+- cast mastering equipment
+- cast streaming equipment
+- cast article writers
+- cast webmasters
+
+[station]: "power":"grid" | (national-grid) (apple-battersea) (electricians) (plumbers) (contractors) | => hospital
+- grid chimneys/turbines/fusion-torus/engine-blocks
+- grid motor-windings/inductor-coils/generators
+- grid light-bulb-filaments/neon-bars/winches
+- grid plasma-globes/arc-tubes/fluid-pipes
+- grid switchgear/gauge-readouts/lines
+- grid racks/cells/leds/experiments
+
+[hospital]: "reach":"ward" | (nhs-who) (matrons) (patients) (prefects) (nurses) (doctors) | => hotel
+- ward beds/seats
+- ward rounds/clinics
+- ward storage/supplies
+- ward reception/pharmacy
+- ward pathology/synthesis
+- ward departments/specialists
+
+[hotel]: "apartment":"room" | (premier-inn) (ibis-travelodge) (radisson-marriott) (guests) | => house
+- room service
+- room storage
+- room bedding
+- room cleaning
+- room toiletries
+- room entertainment
+
+[house]: "homestore":"home" | (common-people) (ikea-bhs-dfs) (woolworths-safeway) (tennants) (owners) | => kitchen
+- home lobby/lounge/attic
+- home kitchen/grill/barbecue
+- home diningroom/boardroom/cellar
+- home garden/shed/conservatory
+- home bathroom/toilet/laundry
+- home bedroom/gallery/study
+
+[kitchen]: "catering":"bar" | (hell's-kitchen) (cooks) (chefs) (lifestyle) (food & drink) (waiters) | => casino
+- bar self-service counter
+- bar sushi conveyor belts
+- bar food truck/tent/hall
+- bar canteen trays & rails
+- bar vending machine takeout
+- bar round tables with cutlery
+
+[casino]: "gameroom":"slot" | (coin-operated) (zone-mixer) (drinks-bar) (gamblers) (loaders) | => stadium
+- slot machine & bingo
+- slot handles & threads
+- slot loaders & lifters
+- slot jukebox & flickbox
+- slot betting & accumulates
+- slot records & leaderboards
+
+[stadium]: "e-sports":"arena" | (sofi-stadium) (hangzhou-arena) (superbowl) (athletes) | => laboratory
+- arena gamemasters & commentators
+- arena competitors & spectators
+- arena scoreboards & tally 
+- arena prizes & winners
+- arena setup & regulations
+- arena brackets & participation
+
+[laboratory]: "lib":"lab" | (fluid-dynamics) (cern-sacla) (accelerators) (professors) | => recycling-center
+- lab debug scope equipment
+- lab power control equipment
+- lab physical linux equipment
+- lab chemical reactor equipment
+- lab biological microscope equipment
+- lab synchrotron scheduler equipment
+
+[recycling-center]: "bins":"den" | (suez-canal) (eco-friendly) (canisters) (cleaners) | => convention-center
+- den upcycled tin cans
+- den upcycled cardboard
+- den upcycled data drives
+- den upcycled food supply
+- den upcycled water supply
+- den upcycled thermoplastics
+
+[convention-center]: "show-floor":"stand" | (computex-innovex) (showcase) (trends) (setters) | => marketplace
+- stand booth
+- stand below
+- stand decks
+- stand exhibit
+- stand displays
+- stand billboard
+
+[marketplace]: "port/stall":"fresh" | (flea-market) (high-ticket) (free-range) (marketers) (sellers) | => tournament
+- fresh goods
+- fresh clothes
+- fresh groceries
+- fresh electronics
+- fresh food & drink
+- fresh fusion cuisine
+
+[tournament]: "worlds":"league" | (pokémon-worlds) (extreme-overclocking) (rocket-league) (competitors) | => festival
+- league announcers
+- league competitors
+- league commentators
+- league audience supporters
+- league remote viewer supporters
+- league on-prem translator supporters
+
+[festival]: "tent":"mosh-pit" | (tomorrowland-mainstage) (glastonbury) (boardmasters) (choreographers) | => circus
+- mosh-pit bands & billboards
+- mosh-pit dancefloor & seats
+- mosh-pit pa-system & line-arrays 
+- mosh-pit mixers & front-of-house 
+- mosh-pit instruments & microphones
+- mosh-pit stage equipment & studio spares
+
+[circus]: "spellbound":"magic" | (trick-room) (stunts) (trapeze-artists) (wizards) (magicians) | => theme-park
+- magic trapeze
+- magic juggling
+- magic tight rope
+- magic crystal ball
+- magic card flourish
+- magic pyro fireworks
+
+[theme-park]: "adventure":"park" | (alton-towers) (merlin-entertainments) (walking-video) (visitors) | => arcade
+- park entrance...
+- park paths/transports/benches
+- park information-centers/maps
+- park attractions/minilands
+- park rollercoasters/rides
+- park concepts/blueprints
+
+[arcade]: "arcade":"arcade" | (taito-station) (penny-arcade) (atari) (sega) (capcom) (gamers) | => production-room
+- arcade joystick
+- arcade cabinets
+- arcade machines
+- arcade controls
+- arcade plushies
+- arcade restroom
+
+[production-room] "cutting-room":"studio" | (abbey-road) (showrunners) (edgerunners) (tapes) (artists) | => bunker
+- studio art canvas
+- studio console mixer
+- studio microphone array
+- studio mastering engineer
+- studio editing workstation
+- studio publishing aggregator
+
+[bunker] "sentry":"sentinel" | (mikoshi-izanagi) (odst-vergil) (yamanote-sen) (civ-octree) (miners) | => olympics
+- sentinel nexus supercomputer
+- sentinel surveillance monitors
+- sentinel metropolitan defences
+- sentinel meeting room cabinets
+- sentinel dramatic-scenic lights
+- sentinel food & oxygen supplies
+
+[olympics] "events/stages":"olympic" | (athens-gymnastics) (tokyo-pictograms) (medals) (olympians) | => satellites
+- olympic competitors/athletes/marshals
+- olympic preppers/medics/stables/animals
+- olympic panel/adjudicators/judges/stewards
+- olympic gym/timing/trackside/running equipment
+- olympic broadcast service action replay highlights
+- olympic ceremony gold/silver/bronze medallion awards
+
+[satellites] "crystal":"lite" | (spacex-crew-dragon) (nasa-esa-jaxa) (space-shuttle) (astronauts) | => planetary-base
+- lite solar collector arrays
+- lite laser antenna equipment
+- lite automated launchpads
+- lite engine room complexes
+- lite jet propulsion rockets
+- lite mission control centers
+
+[planetary-base] "moon-base":"base" | (occupy-mars) (apollo-eleven) (space-engineers) (astroneers) | => homelab
+- base sensory cubesats
+- base transport rovers
+- base hub link tunnels
+- base central hub bubble
+- base orbital hub bubbles
+- base experimental samples
+
+[homelab] "garage":"homelab" | (homelab-garage) (car-boot) (mellanox) (serve-the-home) (scientists) | => developers
+- homelab modems & codecs
+- homelab broadband & fibre
+- homelab servers & switches
+- homelab adapters & modules
+- homelab systems & firmware
+- homelab drivers & software
+
+[developers] "ops":"dev" | (dev-logs) (fireside) (ops-center) (photography) (componentry) (developers) | => census
+- dev settings
+- dev substrate
+- dev acid pools
+- dev mime formats
+- dev fold binders
+- dev rack cabinets
+
+[census]: "sims":"in-game" | (eve-online) (new-age) (mmorpg) (mormons) (surveyors) (planners) | => street
+- in-game main menu
+- in-game level select
+- in-game loading screen
+- in-game environment art
+- in-game level editor
+- in-game modding tools
+
+[street]: "stock":"street" | (word-on-the-street) (high-street) (dude) (slang) (uptown) (dwellers) | => racing
+- street bench
+- street racing
+- street statues
+- street stall kiosk
+- street party lights
+- street lemonade stand
+
+[racing]: "sim-race":"race" | (formula-one) (formula-e) (indycar) (nascar) (sparco) (petronas) (racers) | => industry
+- race sim-rig/racing-wheel/pilot-sade
+- race leaderboard-position/lap-times
+- race pit-crew mechanical equipment
+- race start-finish comms equipment
+- race track safety walls & curbs
+- race endurance grit headlights
+
+[industry]: "warehouse":"guild" | (robot-wars) (bamzooki) (artisans) (roboteers) (crafters) (grafters) | => drones
+- guild planning tables
+- guild research target
+- guild database server
+- guild development lab
+- guild deployment team
+- guild feedback system
+
+[drones]: "quadcopter":"drone" | (red-bull) (bull-run) (dji-phantom-mavic) (airbus-boeing-tesla) (pilots) | => annex
+- drone rotor blades
+- drone aerial vehicles
+- drone control override
+- drone microcontrollers
+- drone gyroscope sensors
+- drone navigation flighting
+
+[annex]: "zero-g/antigrav":"*annex" | (liverpool-studios) (wip3out) (feisar) (sienar) (fanatics) | => virtual-reality
+- edge volunteers annex
+- redline service annex
+- cloud community annex
+- supporter otaku annex
+- municipal metro annex
+- legendary sloth annex
+
+[virtual-reality]: "VR":"VR" | (oculus-rift) (meta-quest) (htc-vive) (valve-index) (holograms) | => augmented-reality
+- VR headset
+- VR stereo optics
+- VR positional anchor
+- VR head-mounted display
+- VR indirect display
+- VR handheld console
+
+[augmented-reality]: "AR":"AR" | (pokémon-go) (niantic-gamefreak) (nintendo) (avatars) | => extended-reality
+- AR headset
+- AR chubby animations
+- AR regional web server
+- AR holographic display
+- AR physical projection
+- AR sensor console
+
+[extended-reality]: "XR":"XR" | (343-industries) (bungie) (xbox) (playstation) (controllers) (players) | => hut
+- XR headset
+- XR extreme compute
+- XR coprocessor
+- XR model printer
+- XR outboard rack
+- XR gamepad console
+
+[hut]: "mechanics":"hut" | (kwik-fit) (short-round) (fixers) (testers) (checkers) (listers) | => graphics
+- hut racks
+- hut pinions
+- hut cabinets
+- hut toolboxes
+- hut socketry
+- hut pizza
+
+[graphics]: "kernel":"gpu" | (vision-pro) (ati-radeon) (riva-iray) (arc-alchemist) (engineers) | => tabletop
+- gpu optics
+- gpu compute
+- gpu networks
+- gpu streaming
+- gpu logistics
+- gpu flow control
+
+[tabletop]: "architects":"top" | (crystal-maze) (playground-games) (berserk-games) (tabletoppers) | => gallery
+- top model
+- top banana
+- top ranking
+- top template
+- top emulation
+- top simulation
+
+[gallery]: "animation":"ani" | (midnight-akritopia) (palace) (optitrack-studio) (vicon) (animators) | => agency
+- ani source material
+- ani photogrammetry rigs
+- ani depth sensing cameras
+- ani panoramic cameras
+- ani tracking cameras
+- ani keyframes
+
+[agency]: "modelling":"model" | (unreal-engine) (maya) (unity) (blender) (renderers) (sculptors) | => archive
+- model chisel/tools
+- model vertex/bones
+- model velcro/hooks
+- model armature/poses
+- model metadata/trends
+- model information/intel
+
+[archive]: "archival":"vault" | (internet-archive) (petabox-backup) (recovery-specialists) (historians) | => castle
+- vault backup
+- vault storage
+- vault hunters
+- vault spinners
+- vault splicers
+- vault replicas
+
+[castle]: "casa":"castle" | (camelot-castle) (armour-suit) (knights) (maidens) (royals) (loyalists) | => crucible
+- castle moat & gates
+- castle walls & turrets
+- castle knights & maidens
+- castle drawbridge & bells
+- castle quests & equestria
+- castle queendom & kingdom
+
+[crucible]: "crux":"mono" | (sisteen-chapel) (cavern) (masonry) (personal) (integrators) (soloists) | => pub
+- mono snooker
+- mono dweller
+- mono drawing
+- mono mission
+- mono conject
+- mono develop
+
+[pub]: "public-house":"pub" | (house-meeting) (tavern) (diplomats) (publicans) (constituents) | => chapel
+- pub crawl & shift
+- pub food & drink
+- pub games & tables
+- pub gigs & open-mic
+- pub chalkboard & menu
+- pub constitution & vote
+
+[chapel]: "el-chap":"chapel" | (prayer-room) (sitting-room) (bible) (gospel) (worshippers) | => village
+- chapel pews
+- chapel priest
+- chapel assembly
+- chapel sermon
+- chapel band
+- chapel doors
+
+[village]: "age":"*ville" | (thrill-ville) (age-edge) (adage) (adlib) (country-music) (villagers) | => church
+- lawn ville
+- relic ville
+- summit ville
+- saddle ville
+- ocean ville
+- usagi ville
+
+[church]: "holy":"church" | (local-church) (priesthood) (relic) (gateway) (preachers) | => town
+- church altar
+- church organ
+- church priest
+- church sermon
+- church ceremony
+- church congregation
+
+[town]: "livingstone":"*ton" | (town-ship) (conglomerate) (townfolk) (toners) (residents) | => hall
+- but-ton
+- tri-ton
+- new-ton
+- mil-ton
+- plu-ton
+- can-ton
+
+[hall]: "community":"xcom" | (grape-vine) (hearsay) (interactive) (representatives) (presenters) | => cathedral
+- xcom survival
+- xcom introduction
+- xcom icebreakers
+- xcom activities
+- xcom storytelling
+- xcom archives
+
+[cathedral]: "monastery":"spiral" | (sagrada-familia) (buckfast-abbey) (mystery-monastery) (monks) | => city
+- spiral altar
+- spiral tower
+- spiral cellar
+- spiral alcove
+- spiral mezzanine
+- spiral staircase
+
+[city] "metropolis":"city" | (concrete-jungle) (airport-cathedral-university) (skyscraper) (citizens) | => temple
+- city limbic system
+- city recycling system
+- city respiratory system
+- city communication system
+- city perimeter system
+- city build system
+
+[temple]: "sanctum":"*ji" | (inner-sloth) (among-us) (cardioid) (roger-roger) (android) (characters) | => region
+- edge volunteers ji
+- redline service ji 
+- cloud community ji
+- supporter otaku ji 
+- municipal metro ji
+- legendary sloth ji
+
+[region] "regional":"edge" | (edgecore-networks) (tik-tok) (alphabet) (bass-knowledge) (nolig) (ledgers) | => legion
+- edge ring
+- edge annex
+- edge server
+- edge turrets
+- edge networks
+- edge metroplex
+
+[legion] "perimeter":"redline" | (trade-union) (broker-bridge) (border) (ebay) (traders) | => continent
+- redline status
+- redline service
+- redline transits
+- redline dashboard
+- redline authority
+- redline communications
+
+[continent] "continental":"cloud" | (stock-exchange) (royal-mail) (nyse) (amazon) (officials) | => globe
+- cloud computing
+- cloud logistics
+- cloud database
+- cloud packaging
+- cloud matchmaking
+- cloud distribution
+
+[globe] "nebula":"worldwide" | (internet-exchange) (berners-lee) (meta-google) (equinix) (hyperscalers) | => galaxy
+- worldwide marketplace
+- worldwide transports
+- worldwide domains
+- worldwide realms
+- worldwide plants
+- worldwide web
+
+[galaxy] "cosmic":"star" | (milky-way) (andromeda) (babylon) (deepslate) (walkers) | => world
+- star alliance
+- star citizen
+- star cloth
+- star gate
+- star wars
+- star trek
+
+[world] "forerunner":"alien" | (youtube-live) (twitch-tv) (iss-worldcam) (starlink) (aliens) | => library
+- alien marketplace
+- alien transports
+- alien domains
+- alien realms
+- alien plants
+- alien web
+
+[_] "_":"_" | (_-_) <(_) ...> (_) | => _
+- _T_ & _...
+...
